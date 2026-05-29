@@ -1,0 +1,6 @@
+hello:Hello User!
+java:Java is a programming language.
+ai:Artificial Intelligence is the future.
+c:yes! C is basic programming language.
+rainbow:Rainbow comes before the rain.The colours are RED,ORANGE,YELLOW,GREEN,BLUE,INDIGO,VIOLET.
+         still any questions!!
